@@ -1,0 +1,12 @@
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\bin\Debug\Приложение для Кирилла.exe.config
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\bin\Debug\Приложение для Кирилла.exe
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\bin\Debug\Приложение для Кирилла.pdb
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Приложение_для_Кирилла.Form1.resources
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Приложение_для_Кирилла.Form2.resources
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Приложение_для_Кирилла.Form3.resources
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Приложение_для_Кирилла.Form4.resources
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Приложение_для_Кирилла.Properties.Resources.resources
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Органайзер.csproj.GenerateResource.Cache
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Органайзер.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Приложение для Кирилла.exe
+C:\Users\Адиль\Desktop\Новая папка\Приложение для Кирилла\obj\Debug\Приложение для Кирилла.pdb
